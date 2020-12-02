@@ -1,1 +1,1 @@
-Neural Networks course homework
+# Neural Networks course homework and projects
